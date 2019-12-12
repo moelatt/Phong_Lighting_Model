@@ -52,8 +52,5 @@ Ambient-coeff, Diffuse-coeff, Specular-coeff:
 	Blue:	0 to 1
 
 Exit: When you press 'q' or 'Q', it will exit immediately. Thanks
-
-Extra credit: Prespective Projection
-	      I try to make user interface to easy to use by sliding cube button with mouse.
 	      
 	      
