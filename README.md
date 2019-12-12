@@ -1,3 +1,8 @@
+A+ Project
+
+![alt text](img/Phong.png)
+![alt text](img/Half_Tone.png)
+![alt text](img/Phong_off.png)
 
 
 Window size: 
