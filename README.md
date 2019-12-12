@@ -1,4 +1,4 @@
-A+ Project
+(Grade A+) Project
 
 ![alt text](img/Phong.png)
 ![alt text](img/Half_Tone.png)
